@@ -4,11 +4,12 @@ Single-file README for an Apple-style marketing/landing site clone. Use this as 
 
 ---
 
-**Status:** Prototype  
-**License:** MIT  
+**Status:** Prototype    
 **Author:** Vanjinathan
 
 ---
+##url
+https://vanjinathan23.github.io/Apple-Clone/
 
 ## Project Overview
 
